@@ -1,1 +1,1 @@
-<?php echo "up in mastering"; ?>
+<?php echo "up in mastering endorsing"; ?>
